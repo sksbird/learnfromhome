@@ -1,0 +1,8 @@
+{"message":"getUser fucntion and variables: { userId: [ 5ed3a2e8b89c4956e8db28f6 ],\n  _id: 5ed3a306b89c4956e8db28f8,\n  name: 'omkar',\n  __v: 0 }","level":"info"}
+{"message":"addUser fucntion  and variables: { _id: 5ed3a43cb9f86a3e0c8f01ff,\n  userName: 'omkar',\n  userId: 'test',\n  password: 'p1',\n  role: 'role1',\n  __v: 0 }","level":"info"}
+{"message":"addUser fucntion  and variables: { _id: 5ed3a43fb9f86a3e0c8f0200,\n  userName: 'omkar11',\n  userId: 'test',\n  password: 'p1',\n  role: 'role1',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed3a43cb9f86a3e0c8f01ff,\n  userName: 'omkar',\n  userId: 'test',\n  password: 'p1',\n  role: 'role1',\n  __v: 0 },{ _id: 5ed3a43fb9f86a3e0c8f0200,\n  userName: 'omkar11',\n  userId: 'test',\n  password: 'p1',\n  role: 'role1',\n  __v: 0 }","level":"info"}
+{"message":"addUser fucntion  and variables: { _id: 5ed3a46f4f4bb5131c3a9d17,\n  name: 'omkar',\n  userId: 5ed3a43cb9f86a3e0c8f01ff,\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed3a46f4f4bb5131c3a9d17,\n  name: 'omkar',\n  userId: 5ed3a43cb9f86a3e0c8f01ff,\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { userId: [ 5ed3a43cb9f86a3e0c8f01ff ],\n  _id: 5ed3a46f4f4bb5131c3a9d17,\n  name: 'omkar',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { userId: [ 5ed3a43cb9f86a3e0c8f01ff ],\n  _id: 5ed3a46f4f4bb5131c3a9d17,\n  name: 'omkar',\n  __v: 0 }","level":"info"}

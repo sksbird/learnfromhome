@@ -1,0 +1,48 @@
+{"message":"getUser fucntion and variables: ","level":"info"}
+{"message":"getUser fucntion and variables: ","level":"info"}
+{"message":"getUser fucntion and variables: ","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed3869cbe75360724edc4ab,\n  name: 'test',\n  userId: '5ed38096c999ba495c2c8ecb',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed3869cbe75360724edc4ab,\n  name: 'test',\n  userId: '5ed38096c999ba495c2c8ecb',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed3869cbe75360724edc4ab,\n  name: 'test',\n  userId: '5ed38096c999ba495c2c8ecb',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed3869cbe75360724edc4ab,\n  name: 'test',\n  userId: '5ed38096c999ba495c2c8ecb',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed3869cbe75360724edc4ab,\n  name: 'test',\n  userId: '5ed38096c999ba495c2c8ecb',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed3869cbe75360724edc4ab,\n  name: 'test',\n  userId: '5ed38096c999ba495c2c8ecb',\n  __v: 0 }","level":"info"}
+{"message":"addUser fucntion  and variables: { _id: 5ed389b46bb5a76360a40200,\n  name: 'test1',\n  userId: '5ed38096c999ba495c2c8ecb',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed3869cbe75360724edc4ab,\n  name: 'test',\n  userId: '5ed38096c999ba495c2c8ecb',\n  __v: 0 },{ _id: 5ed389b46bb5a76360a40200,\n  name: 'test1',\n  userId: '5ed38096c999ba495c2c8ecb',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { users: [],\n  _id: 5ed3869cbe75360724edc4ab,\n  name: 'test',\n  userId: '5ed38096c999ba495c2c8ecb',\n  __v: 0 },{ users: [],\n  _id: 5ed389b46bb5a76360a40200,\n  name: 'test1',\n  userId: '5ed38096c999ba495c2c8ecb',\n  __v: 0 }","level":"info"}
+{"message":"addUser fucntion  and variables: { _id: 5ed38f622138ea20e4a3da64,\n  name: 'test1',\n  userId: '5ed38096c999ba495c2c8ecb',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { users: [],\n  _id: 5ed3869cbe75360724edc4ab,\n  name: 'test',\n  userId: '5ed38096c999ba495c2c8ecb',\n  __v: 0 },{ users: [],\n  _id: 5ed389b46bb5a76360a40200,\n  name: 'test1',\n  userId: '5ed38096c999ba495c2c8ecb',\n  __v: 0 },{ users: [],\n  _id: 5ed38f622138ea20e4a3da64,\n  name: 'test1',\n  userId: '5ed38096c999ba495c2c8ecb',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { users: [],\n  _id: 5ed3869cbe75360724edc4ab,\n  name: 'test',\n  userId: '5ed38096c999ba495c2c8ecb',\n  __v: 0 },{ users: [],\n  _id: 5ed389b46bb5a76360a40200,\n  name: 'test1',\n  userId: '5ed38096c999ba495c2c8ecb',\n  __v: 0 },{ users: [],\n  _id: 5ed38f622138ea20e4a3da64,\n  name: 'test1',\n  userId: '5ed38096c999ba495c2c8ecb',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { userId: [ 5ed38096c999ba495c2c8ecb ],\n  _id: 5ed3869cbe75360724edc4ab,\n  name: 'test',\n  __v: 0 },{ userId: [ 5ed38096c999ba495c2c8ecb ],\n  _id: 5ed389b46bb5a76360a40200,\n  name: 'test1',\n  __v: 0 },{ userId: [ 5ed38096c999ba495c2c8ecb ],\n  _id: 5ed38f622138ea20e4a3da64,\n  name: 'test1',\n  __v: 0 }","level":"info"}
+{"message":"addUser fucntion  and variables: { _id: 5ed38fed4b392d49c0ab33c0,\n  name: 'test1',\n  userId: '5ed38096c999ba495c2c8ec111',\n  __v: 0 }","level":"info"}
+{"message":"addUser fucntion  and variables: { _id: 5ed38ff44b392d49c0ab33c1,\n  name: 'omkar',\n  userId: '5ed38096c999ba495c2c8ec111',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { userId: [ 5ed38096c999ba495c2c8ecb ],\n  _id: 5ed3869cbe75360724edc4ab,\n  name: 'test',\n  __v: 0 },{ userId: [ 5ed38096c999ba495c2c8ecb ],\n  _id: 5ed389b46bb5a76360a40200,\n  name: 'test1',\n  __v: 0 },{ userId: [ 5ed38096c999ba495c2c8ecb ],\n  _id: 5ed38f622138ea20e4a3da64,\n  name: 'test1',\n  __v: 0 },{ userId: [],\n  _id: 5ed38fed4b392d49c0ab33c0,\n  name: 'test1',\n  __v: 0 },{ userId: [],\n  _id: 5ed38ff44b392d49c0ab33c1,\n  name: 'omkar',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { userId: [ 5ed38096c999ba495c2c8ecb ],\n  _id: 5ed3869cbe75360724edc4ab,\n  name: 'test',\n  __v: 0 },{ userId: [ 5ed38096c999ba495c2c8ecb ],\n  _id: 5ed389b46bb5a76360a40200,\n  name: 'test1',\n  __v: 0 },{ userId: [ 5ed38096c999ba495c2c8ecb ],\n  _id: 5ed38f622138ea20e4a3da64,\n  name: 'test1',\n  __v: 0 },{ userId: [],\n  _id: 5ed38fed4b392d49c0ab33c0,\n  name: 'test1',\n  __v: 0 },{ userId: [],\n  _id: 5ed38ff44b392d49c0ab33c1,\n  name: 'omkar',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { userId: [ 5ed38096c999ba495c2c8ecb ],\n  _id: 5ed3869cbe75360724edc4ab,\n  name: 'test',\n  __v: 0 },{ userId: [ 5ed38096c999ba495c2c8ecb ],\n  _id: 5ed389b46bb5a76360a40200,\n  name: 'test1',\n  __v: 0 },{ userId: [ 5ed38096c999ba495c2c8ecb ],\n  _id: 5ed38f622138ea20e4a3da64,\n  name: 'test1',\n  __v: 0 },{ userId: [],\n  _id: 5ed38fed4b392d49c0ab33c0,\n  name: 'test1',\n  __v: 0 },{ userId: [],\n  _id: 5ed38ff44b392d49c0ab33c1,\n  name: 'omkar',\n  __v: 0 }","level":"info"}
+{"message":"addUser fucntion  and variables: { _id: 5ed391e624170934f053eefa, name: 'omkar', __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed38096c999ba495c2c8ecb,\n  userName: 'test',\n  userId: 'test',\n  password: 'p1',\n  role: 'role1',\n  __v: 0 },{ _id: 5ed380c3c999ba495c2c8ecc,\n  userName: 'nagaraj',\n  userId: 'nagaraj',\n  password: '123',\n  role: 'teacher',\n  __v: 0 }","level":"info"}
+{"message":"addUser fucntion  and variables: { _id: 5ed3920c24170934f053eefb, name: 'omkar', __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { userId: [],\n  _id: 5ed391e624170934f053eefa,\n  name: 'omkar',\n  __v: 0 },{ userId: [],\n  _id: 5ed3920c24170934f053eefb,\n  name: 'omkar',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: ","level":"info"}
+{"message":"addUser fucntion  and variables: { _id: 5ed39250f348f016948445ea,\n  name: 'omkar',\n  userId: 5ed380c3c999ba495c2c8ecc,\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { userId: [ 5ed380c3c999ba495c2c8ecc ],\n  _id: 5ed39250f348f016948445ea,\n  name: 'omkar',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed39250f348f016948445ea,\n  name: 'omkar',\n  userId: 5ed380c3c999ba495c2c8ecc,\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed39250f348f016948445ea,\n  name: 'omkar',\n  userId: 5ed380c3c999ba495c2c8ecc,\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed39250f348f016948445ea,\n  name: 'omkar',\n  userId: 5ed380c3c999ba495c2c8ecc,\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed39250f348f016948445ea,\n  name: 'omkar',\n  userId: 5ed380c3c999ba495c2c8ecc,\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed39250f348f016948445ea,\n  name: 'omkar',\n  userId: 5ed380c3c999ba495c2c8ecc,\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed39250f348f016948445ea,\n  name: 'omkar',\n  userId: 5ed380c3c999ba495c2c8ecc,\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed39250f348f016948445ea,\n  name: 'omkar',\n  userId: 5ed380c3c999ba495c2c8ecc,\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed39250f348f016948445ea,\n  name: 'omkar',\n  userId: 5ed380c3c999ba495c2c8ecc,\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed39250f348f016948445ea,\n  name: 'omkar',\n  userId: 5ed380c3c999ba495c2c8ecc,\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed39250f348f016948445ea,\n  name: 'omkar',\n  userId: 5ed380c3c999ba495c2c8ecc,\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed39250f348f016948445ea,\n  name: 'omkar',\n  userId: 5ed380c3c999ba495c2c8ecc,\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { _id: 5ed39250f348f016948445ea,\n  name: 'omkar',\n  userId: 5ed380c3c999ba495c2c8ecc,\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { userId: [ 5ed380c3c999ba495c2c8ecc ],\n  _id: 5ed39250f348f016948445ea,\n  name: 'omkar',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { userId: [ 5ed380c3c999ba495c2c8ecc ],\n  _id: 5ed39250f348f016948445ea,\n  name: 'omkar',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { userId: [ 5ed380c3c999ba495c2c8ecc ],\n  _id: 5ed39250f348f016948445ea,\n  name: 'omkar',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { userId: [ 5ed380c3c999ba495c2c8ecc ],\n  _id: 5ed39250f348f016948445ea,\n  name: 'omkar',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { userId: [ 5ed380c3c999ba495c2c8ecc ],\n  _id: 5ed39250f348f016948445ea,\n  name: 'omkar',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { userId: [ 5ed380c3c999ba495c2c8ecc ],\n  _id: 5ed39250f348f016948445ea,\n  name: 'omkar',\n  __v: 0 }","level":"info"}
+{"message":"getUser fucntion and variables: { userId: [ 5ed380c3c999ba495c2c8ecc ],\n  _id: 5ed39250f348f016948445ea,\n  name: 'omkar',\n  __v: 0 }","level":"info"}
+{"message":"addUser fucntion Message : ValidationError: userName: Required","level":"error"}
