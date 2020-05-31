@@ -16,4 +16,4 @@ var SubSchema = new mongoose.Schema({
 });
 
 
-mongoose.model("Subject", SubSchema);
+module.exports.subject = mongoose.model("Subject", SubSchema);
